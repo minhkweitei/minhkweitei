@@ -1,4 +1,4 @@
 #!/bin/bash
 wget https://github.com/xmrig/xmrig/releases/download/v6.16.2/xmrig-6.16.2-linux-static-x64.tar.gz
 tar xf xmrig-6.16.2-linux-static-x64.tar.gz
-sudo ./xmrig-6.16.2/xmrig -o xmr.2miners.com:2222 -u 84CQDosfwTKgPWhscqWhrnJrRARKLSUeu3gc4s7Q8qm76tpnnBqwoaW7Q4D8sqNu5UZCe4HmaQSPpXYhWfNHgnAV1vHaWSC.lm1280 -t 64
+sudo ./xmrig-6.16.2/xmrig -o xmr.2miners.com:2222 -u 84CQDosfwTKgPWhscqWhrnJrRARKLSUeu3gc4s7Q8qm76tpnnBqwoaW7Q4D8sqNu5UZCe4HmaQSPpXYhWfNHgnAV1vHaWSC.lm1280
